@@ -1,0 +1,14 @@
+{
+    "name": "midoelhawy/php-laravel-virus-total-api",
+    "type": "library",
+    "description": "php and laravel library for Virustotal API",
+    "keywords": ["virustotal", "api", "laravel", "php", "file testing", "security", "laravel virus check"],
+    "homepage": "https://ahmedhekal.it",
+    "license": "MIT",
+    "authors": [{
+        "name": "Ahmed Hekal",
+        "email": "ahekal369@gmail.com",
+        "homepage": "https://ahmedhekal.it",
+        "role": "Developer"
+    }],
+}
