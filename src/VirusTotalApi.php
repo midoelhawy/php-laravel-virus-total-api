@@ -1,5 +1,5 @@
 <?php
-namespace midoelhawy\VirusTotalApi;
+namespace midoelhawy\PhpLaravelVirusTotalApi;
 
 
 
