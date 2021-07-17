@@ -1,6 +1,9 @@
 <?php
 namespace midoelhawy\VirusTotalApi;
 
+
+
+
 class VirusTotalApi {
 
     /** API_KEY for the service
@@ -43,6 +46,15 @@ class VirusTotalApi {
       $this->api_key = $api_key;
     }
   
+
+    /* it will be dev.. */
+
+    public function saveReportInDb()
+    {
+      # code...
+    }
+
+
     /** Ask VirusTotal to rescan an already submitted file
      * @class virustotal
      * @method rescan
