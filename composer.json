@@ -1,5 +1,5 @@
 {
-    "name": "midoelhawy/laravel-vt-api",
+    "name": "midoelhawy/php-laravel-virus-total-api",
     "type": "library",
     "description": "php and laravel library for Virustotal API",
     "keywords": ["virustotal", "api", "laravel", "php", "file testing", "security", "laravel virus check"],
